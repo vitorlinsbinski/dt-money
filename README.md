@@ -59,7 +59,7 @@
 - [JSON Server](https://github.com/typicode/json-server)
 - [Radix UI](https://www.radix-ui.com/)
 - [Axios](https://axios-http.com/ptbr/docs/intro)
-- [Phospor React](https://github.com/phosphor-icons/react)
+- [Phosphor React](https://github.com/phosphor-icons/react)
 - [Styled Components](https://styled-components.com/)
 - [use-context-selector](https://github.com/dai-shi/use-context-selector)
 
