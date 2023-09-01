@@ -5,9 +5,9 @@
 
 <img src = "https://img.shields.io/static/v1?label=npm&message=8.5.5&color=blue&style=plastic&logo="/>
 
-<img src = "https://img.shields.io/static/v1?label=Vite&message=&color=blue&style=plastic&logo="/>
+<img src = "https://img.shields.io/static/v1?label=Vite&message=v4.4.5&color=blue&style=plastic&logo="/>
 
-<img src = "https://img.shields.io/static/v1?label=ReactJS&message=&color=blue&style=plastic&logo="/>>
+<img src = "https://img.shields.io/static/v1?label=ReactJS&message=v18.2.0&color=blue&style=plastic&logo="/>
 
 <img src = "https://img.shields.io/static/v1?label=TypeScript&message=v5.0.2&color=blue&style=plastic&logo="/>
 
