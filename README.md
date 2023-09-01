@@ -34,7 +34,7 @@
 
 ```bash
     # Clone this repository in your machine:
-    $ git clone <https://github.com/vitorlinsbinski/dt-money.git>
+    $ git clone https://github.com/vitorlinsbinski/dt-money.git
 
     # Access the project folder in your terminal:
     $ cd dt-money
