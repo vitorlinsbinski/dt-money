@@ -4,12 +4,23 @@ import logoImg from "../../assets/logo.svg";
 
 import * as Dialog from "@radix-ui/react-dialog";
 import { NewTransactionModal } from "../NewTransactionModal";
-import { useContext } from "react";
 import { TransactionContext } from "../../contexts/TransactionsContext";
+import { useContextSelector } from "use-context-selector";
 
 export function Header() {
-  const { isNewTransactionModalOpen, toggleNewTransactionModal } =
-    useContext(TransactionContext);
+  const isNewTransactionModalOpen = useContextSelector(
+    TransactionContext,
+    (context) => {
+      return context.isNewTransactionModalOpen;
+    }
+  );
+
+  const toggleNewTransactionModal = useContextSelector(
+    TransactionContext,
+    (context) => {
+      return context.toggleNewTransactionModal;
+    }
+  );
 
   return (
     <HeaderContainer>

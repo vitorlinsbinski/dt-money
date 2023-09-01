@@ -15,6 +15,182 @@
       "type": "outcome",
       "createdAt": "2023-08-28T15:42:12.686Z",
       "id": 2
+    },
+    {
+      "description": "Site",
+      "price": 2500,
+      "category": "Serviços",
+      "type": "income",
+      "createdAt": "2023-08-30T00:16:20.527Z",
+      "id": 3
+    },
+    {
+      "description": "Teste",
+      "price": 159,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-08-30T00:17:06.830Z",
+      "id": 4
+    },
+    {
+      "description": "aaaaaaaa",
+      "price": 145,
+      "category": "Serviços",
+      "type": "outcome",
+      "createdAt": "2023-08-30T00:17:19.842Z",
+      "id": 5
+    },
+    {
+      "description": "aaa",
+      "price": 65,
+      "category": "Alimentação",
+      "type": "income",
+      "createdAt": "2023-08-30T00:17:35.084Z",
+      "id": 6
+    },
+    {
+      "description": "aaaaaaaa",
+      "price": 56,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-08-30T00:17:43.627Z",
+      "id": 7
+    },
+    {
+      "description": "aaa",
+      "price": 18,
+      "category": "dsffd",
+      "type": "outcome",
+      "createdAt": "2023-08-30T00:26:05.912Z",
+      "id": 8
+    },
+    {
+      "description": "Bolacha",
+      "price": 3,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-08-30T00:27:01.170Z",
+      "id": 9
+    },
+    {
+      "description": "aaa",
+      "price": 1456,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-08-30T00:30:53.705Z",
+      "id": 10
+    },
+    {
+      "description": "aaa",
+      "price": 156,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-09-01T11:33:09.618Z",
+      "id": 11
+    },
+    {
+      "description": "aaaaaaaa",
+      "price": 15,
+      "category": "Alimentação",
+      "type": "income",
+      "createdAt": "2023-09-01T11:33:25.814Z",
+      "id": 12
+    },
+    {
+      "description": "aaaaaaaa",
+      "price": 26,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-09-01T11:35:21.616Z",
+      "id": 13
+    },
+    {
+      "description": "aaa",
+      "price": 156,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-09-01T11:36:08.824Z",
+      "id": 14
+    },
+    {
+      "description": "aaa",
+      "price": 189,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-09-01T11:36:59.477Z",
+      "id": 15
+    },
+    {
+      "description": "aaa",
+      "price": 125,
+      "category": "dsffd",
+      "type": "income",
+      "createdAt": "2023-09-01T11:39:14.365Z",
+      "id": 16
+    },
+    {
+      "description": "aaa",
+      "price": 189,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-09-01T11:42:58.192Z",
+      "id": 17
+    },
+    {
+      "description": "aaa",
+      "price": 25,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-09-01T11:43:19.661Z",
+      "id": 18
+    },
+    {
+      "description": "aaa",
+      "price": 145,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-09-01T11:43:33.635Z",
+      "id": 19
+    },
+    {
+      "description": "aaa",
+      "price": 156,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-09-01T11:43:59.956Z",
+      "id": 20
+    },
+    {
+      "description": "aaa",
+      "price": 15,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-09-01T11:44:09.304Z",
+      "id": 21
+    },
+    {
+      "description": "aaa",
+      "price": 159,
+      "category": "Alimentação",
+      "type": "income",
+      "createdAt": "2023-09-01T11:46:02.517Z",
+      "id": 22
+    },
+    {
+      "description": "aaa",
+      "price": 28,
+      "category": "Alimentação",
+      "type": "income",
+      "createdAt": "2023-09-01T11:46:22.075Z",
+      "id": 23
+    },
+    {
+      "description": "aaa",
+      "price": 28,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-09-01T11:51:47.776Z",
+      "id": 24
     }
   ]
 }
