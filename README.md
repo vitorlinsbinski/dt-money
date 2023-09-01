@@ -69,7 +69,7 @@
 <img src = "./src/assets/screenshot-2.png"/>
 <img src = "./src/assets/screenshot-3.png"/>
 
-### Autor
+### Author
 
 ---
 
