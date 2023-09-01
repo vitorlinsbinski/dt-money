@@ -42,7 +42,7 @@
     # Install all dependences:
     $ npm install
 
-    # Initialize JSON Server with this parameters (-w for watch each HTTP request and -d for delay in microsseconds):
+    # Initialize JSON Server with these parameters: -w for watch each HTTP request and -d for delay in microsseconds:
     $ npx json-server server.json -w -d 350
 
     # Run the appliaction:
