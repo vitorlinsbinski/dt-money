@@ -39,13 +39,13 @@
     # Access the project folder in your terminal:
     $ cd dt-money
 
-    # Install all dependences:
+    # Install all dependencies:
     $ npm install
 
-    # Initialize JSON Server with these parameters: -w for watch each HTTP request and -d for delay in microsseconds:
+    # Initialize JSON Server with these parameters: -w for watching each HTTP request and -d for the delay in microseconds:
     $ npx json-server server.json -w -d 350
 
-    # Run the appliaction:
+    # Run the application:
     $ npm run dev
 ```
 
@@ -80,4 +80,4 @@
 
 Developed by Vitor Linsbinski
 
-[![Linkedin Badge](https://img.shields.io/badge/-Vitor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitorlinsbinski/)](https://www.linkedin.com/in/vitorlinsbinski/)
+[![Linkedin Badge](https://img.shields.io/badge/-Vitor Linsbinski-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitorlinsbinski/)](https://www.linkedin.com/in/vitorlinsbinski/)
