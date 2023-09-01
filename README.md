@@ -1,5 +1,5 @@
 <h1 align = "center">DT Money</h1>
-<p>💰 A digital wallet to help you take control of your finances. In this project, I applied so many Frontend featueres. It was used concepts from ReactJS, like State, Context API and other hooks.</p>
+<p>💰 A digital wallet to help you take control of your finances. In this project, I applied so many Frontend features. It was used concepts from ReactJS, like State, Context API and other hooks.</p>
 
 <p>Beyond that, it was used libraries to handle form validation and submitting, like ZOD and React Hook Form. For the page's style, "Styled Components" was included. Regarding performance, "memo", "useMemo" and "useContextSelector" were used to avoid unecessary variable and function rerendering.</p>
 
