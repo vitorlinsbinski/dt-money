@@ -33,7 +33,7 @@
 ## Running the application
 
 ```bash
-    # Clone this repository in your machine:
+    # Clone this repository on your machine:
     $ git clone https://github.com/vitorlinsbinski/dt-money.git
 
     # Access the project folder in your terminal:
