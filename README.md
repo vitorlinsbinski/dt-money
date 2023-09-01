@@ -28,7 +28,7 @@
 
 ## Requirements to run the project
 
-<p>Before you run de project, check if you have [Node.js](https://nodejs.org/en/) installed in your machine, as well [Git](https://git-scm.com) to clone this repository.</p>
+<p>Before you run de project, check if you have [Node.js](https://nodejs.org/en/) installed on your machine, as well [Git](https://git-scm.com) to clone this repository.</p>
 
 ## Running the application
 
