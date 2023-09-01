@@ -2,6 +2,7 @@ import { Header } from "../../components/Header";
 import { Summary } from "../../components/Summary";
 import { SearchForm } from "./components/SearchForm";
 import {
+  DivTransaction,
   PriceHightlight,
   TransactionsContainer,
   TransactionsTable,
@@ -23,25 +24,28 @@ export function Transactions() {
 
       <TransactionsContainer>
         <SearchForm />
-        <TransactionsTable>
-          <tbody>
-            {transactions.map((transaction) => {
-              return (
-                <tr key={transaction.id}>
-                  <td width="50%">{transaction.description}</td>
-                  <PriceHightlight variant={transaction.type}>
-                    {transaction.type == "outcome" && "- "}
-                    {priceFormater.format(transaction.price)}
-                  </PriceHightlight>
-                  <td>{transaction.category}</td>
-                  <td>
-                    {dateFormater.format(new Date(transaction.createdAt))}
-                  </td>
-                </tr>
-              );
-            })}
-          </tbody>
-        </TransactionsTable>
+
+        <DivTransaction>
+          <TransactionsTable>
+            <tbody>
+              {transactions.map((transaction) => {
+                return (
+                  <tr key={transaction.id}>
+                    <td>{transaction.description}</td>
+                    <PriceHightlight variant={transaction.type}>
+                      {transaction.type == "outcome" && "- "}
+                      {priceFormater.format(transaction.price)}
+                    </PriceHightlight>
+                    <td>{transaction.category}</td>
+                    <td>
+                      {dateFormater.format(new Date(transaction.createdAt))}
+                    </td>
+                  </tr>
+                );
+              })}
+            </tbody>
+          </TransactionsTable>
+        </DivTransaction>
       </TransactionsContainer>
     </div>
   );
