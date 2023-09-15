@@ -5,21 +5,18 @@
 
 <p>About the HTTP request, Axios library was implemented to make fetching data easier in the simulated backend offered by JSON Server</p>
 
-<img src = "https://img.shields.io/static/v1?label=node&message=v16.15.0&color=blue&style=plastic&logo="/>
-
-<img src = "https://img.shields.io/static/v1?label=npm&message=v8.5.5&color=blue&style=plastic&logo="/>
-
-<img src = "https://img.shields.io/static/v1?label=Vite&message=v4.4.5&color=blue&style=plastic&logo="/>
-
-<img src = "https://img.shields.io/static/v1?label=ReactJS&message=v18.2.0&color=blue&style=plastic&logo="/>
-
-<img src = "https://img.shields.io/static/v1?label=TypeScript&message=v5.0.2&color=blue&style=plastic&logo="/>
-
-<img src = "https://img.shields.io/static/v1?label=Axios&message=v1.5.0&color=blue&style=plastic&logo="/>
-
-<img src = "https://img.shields.io/static/v1?label=Styled Components&message=v6.0.7&color=blue&style=plastic&logo="/>
-
-<img src = "https://img.shields.io/static/v1?label=JSON Server&message=v0.17.3&color=blue&style=plastic&logo="/>
+<div align="center">
+  <div style="display: flex; justify-content: space-between; align-items: center;">
+	<img src = "https://img.shields.io/static/v1?label=node&message=v16.15.0&color=blue&style=plastic&logo="/>
+	<img src = "https://img.shields.io/static/v1?label=npm&message=v8.5.5&color=blue&style=plastic&logo="/>
+	<img src = "https://img.shields.io/static/v1?label=Vite&message=v4.4.5&color=blue&style=plastic&logo="/>
+	<img src = "https://img.shields.io/static/v1?label=ReactJS&message=v18.2.0&color=blue&style=plastic&logo="/>
+	<img src = "https://img.shields.io/static/v1?label=TypeScript&message=v5.0.2&color=blue&style=plastic&logo="/>
+	<img src = "https://img.shields.io/static/v1?label=Axios&message=v1.5.0&color=blue&style=plastic&logo="/>
+	<img src = "https://img.shields.io/static/v1?label=Styled Components&message=v6.0.7&color=blue&style=plastic&logo="/>
+	<img src = "https://img.shields.io/static/v1?label=JSON Server&message=v0.17.3&color=blue&style=plastic&logo="/>
+  </div>
+</div>
 
 <h4 align="center"> 
 	💰 DT Money 🚀 Done ✔️
